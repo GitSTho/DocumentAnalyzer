@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Python
+__pychache__/
+*.py[cod]
+*.so
+.venv/
+*.egg-info/
+
+# Chroma
+chroma_db/
